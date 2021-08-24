@@ -4,7 +4,7 @@
 **jeremieb/jeremieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Bonjour, I am a Senior Product Designer. I design mobile apps from start to finish, for iOS and Android platforms. Not only am I competent in all aspects of the design process, but also strong at communicating design intent verbally and visually What makes me unique is a special blend of creative, technologist, iOS developer, and UI/UXer.
+Bonjour, I am a Senior Product Designer. I design mobile apps from start to finish, for iOS and Android platforms. Not only am I competent in all aspects of the design process, but also strong at communicating design intent verbally and visually. What makes me unique is a special blend of creative, technologist, iOS developer, and UI/UXer.
 
 ---
 
