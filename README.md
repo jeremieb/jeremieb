@@ -22,3 +22,5 @@ Bonjour, I am a Senior Product Designer. I design mobile apps from start to fini
 </a> -->
 
 ---
+
+![Jeremie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremieb&show_icons=true&theme=radical)
