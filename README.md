@@ -24,3 +24,6 @@ Bonjour, I am a Senior Product Designer. I design mobile apps from start to fini
 ---
 
 ![Jeremie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremieb&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremieb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
