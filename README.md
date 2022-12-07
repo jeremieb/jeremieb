@@ -4,7 +4,13 @@
 **jeremieb/jeremieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Bonjour, I am a Senior Product Designer. I design mobile apps from start to finish, for iOS and Android platforms. Not only am I competent in all aspects of the design process, but also strong at communicating design intent verbally and visually. What makes me unique is a special blend of creative, technologist, iOS developer, and UI/UXer.
+❝Learning by doing is the only way I know how to learn.❞ — Tony Fadell
+
+Lead Product Designer and Swift Developer with +13 years building mobile apps from start to finish. I focus on making the end-to-end experience better for users. I act as a Creative Technologist, bridging ideas and cutting-edge technologies to help organizations invent their future.
+
+I am a (Product UX) designer and (Swift) developer, with extensive experience working in product driven matrix organizations as well as in start-ups. This rare blend allows me to fill the gap between design and tech teams. I bring an understanding of each others’ technical language and mode of work, thus unlocking cross-functional collaboration for high performing teams.
+
+#productdesign #uxdesign #uidesign #designsystem #design #mobile #mobileapp #indiedeveloper #innovation #humancentereddesign #humaninterfaceguidelines #materialdesign #userexperience #interactiondesign #voiceuserinterface #creativity #inclusivity #diversity #iOS #watchOS #iPadOS #macOS #Swift #SwiftUI #XCode #WidgetKit #SiriKit #Sketch #Figma
 
 ---
 
