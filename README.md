@@ -6,11 +6,17 @@
 
 ❝Learning by doing is the only way I know how to learn.❞ — Tony Fadell
 
-Lead Product Designer and Swift Developer with +13 years building mobile apps from start to finish. I focus on making the end-to-end experience better for users. I act as a Creative Technologist, bridging ideas and cutting-edge technologies to help organizations invent their future.
+As a Creative Technologist with over 15 years of experience in design and development, I specialize in transforming imaginative concepts into tangible, impactful digital solutions. My journey from Lead Product Designer and Swift Developer to pioneering roles showcases my dedication to merging design with technology, creating seamless user experiences.
 
-I am a (Product UX) designer and (Swift) developer, with extensive experience working in product driven matrix organizations as well as in start-ups. This rare blend allows me to fill the gap between design and tech teams. I bring an understanding of each others’ technical language and mode of work, thus unlocking cross-functional collaboration for high performing teams.
+In my career, I've focused on enhancing the end-to-end user experience in mobile and wearable technology, continuously pushing the boundaries of human-machine interfaces. My expertise extends across Apple and Google platforms, where I've developed a profound ability to bridge the gap between design and technical teams, promoting an environment of cross-functional collaboration.
 
-#productdesign #uxdesign #uidesign #designsystem #design #mobile #mobileapp #indiedeveloper #innovation #humancentereddesign #humaninterfaceguidelines #materialdesign #userexperience #interactiondesign #voiceuserinterface #creativity #inclusivity #diversity #iOS #watchOS #iPadOS #macOS #Swift #SwiftUI #XCode #WidgetKit #SiriKit #Sketch #Figma
+Recently, my passion has evolved into building new experiences in mixed reality, spatial computing, and virtual reality. This evolution reflects my commitment to not only redefine human-machine interaction but also to create immersive, transformative experiences that extend beyond traditional screens and environments.
+
+As a leader in this innovative field, I drive projects that demand transdisciplinary collaboration, integrating AR, VR, and spatial computing to unlock unprecedented user experiences. This approach is inherently cross and anti-disciplinary, underscoring my belief in the power of breaking new ground through creative and technological fusion.
+
+I am dedicated to advancing adaptive, regenerative organizations that champion equitable work and aim to build just, caring societies. My ambition is to work in groundbreaking spaces, catalyzing change and crafting a future where technology and humanity not only coexist but thrive together in new, unimagined ways.
+
+#productdesign #uxdesign #uidesign #designsystem #design #mobile #mobileapp #indiedeveloper #interactiondesign #voiceuserinterface #creativity #inclusivity #diversity #iOS #watchOS #iPadOS #visionOS #macOS #Swift #SwiftUI #XCode #WidgetKit #SiriKit #VR #AR #Unity #ARKit #Blender
 
 ---
 
