@@ -27,7 +27,6 @@ I am dedicated to advancing adaptive, regenerative organizations that champion e
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 <a href="https://twitch.tv/monsieurbee" target="_blank"><img src="https://img.shields.io/twitch/status/monsieurbee?color=%236441a5&logo=twitch&logoColor=white&style=for-the-badge" /></a>
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/000007492?logo=mastodon&logoColor=white&style=for-the-badge)
-<a href="https://twitter.com/jeremieberduck" target="_blank"><img src="https://img.shields.io/twitter/follow/jeremieberduck?color=%231DA1F2&logo=twitter&logoColor=white&style=for-the-badge" /></a>
 <a href="https://www.youtube.com/c/jeremieberduck" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCsUsLsmE3OtWmko03Haw-nA?logo=youtube&logoColor=white&style=for-the-badge" /></a>
 
 <!-- <a href="https://dev.to/jeremieberduck">
