@@ -41,14 +41,15 @@ Apps & projects → **https://jeremieberduck.com**
 
 ---
 
-<a href ="https://jeremieberduck.com">![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/jeremieberduck/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://discord.gg/nyF9Tnrksr" target="_blank">![Discord](https://img.shields.io/badge/MonsieurBee-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-<a href="https://twitch.tv/monsieurbee" target="_blank"><img src="https://img.shields.io/twitch/status/monsieurbee?color=%236441a5&logo=twitch&logoColor=white&style=for-the-badge" /></a>
-![Mastodon Follow](https://img.shields.io/mastodon/follow/000007492?logo=mastodon&logoColor=white&style=for-the-badge)
-<a href="https://www.youtube.com/c/jeremieberduck" target="_blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCsUsLsmE3OtWmko03Haw-nA?logo=youtube&logoColor=white&style=for-the-badge" /></a>
+[![Website](https://img.shields.io/badge/Website-jeremieberduck.com-2B2D42?logo=googlechrome&logoColor=white)](https://jeremieberduck.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremie%20Berduck-2B2D42?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremieberduck/)
+[![GitHub](https://img.shields.io/badge/GitHub-jeremieberduck-2B2D42?logo=github&logoColor=white)](https://github.com/jeremieberduck)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@jeremie-2B2D42?logo=mastodon&logoColor=white)](https://iosdev.space/@jeremie)
+[![Bluesky](https://img.shields.io/badge/Bluesky-@jeremie-2B2D42?logo=bluesky&logoColor=white)](https://bsky.app/profile/jeremie)
+[![Threads](https://img.shields.io/badge/Threads-@jeremie-2B2D42?logo=threads&logoColor=white)](https://threads.net/@jeremie)
+[![Instagram](https://img.shields.io/badge/Instagram-@jeremie-2B2D42?logo=instagram&logoColor=white)](https://instagram.com/jeremie)
+[![YouTube](https://img.shields.io/badge/YouTube-Jeremie%20Berduck-2B2D42?logo=youtube&logoColor=white)](https://youtube.com/@jeremie)
+[![TikTok](https://img.shields.io/badge/TikTok-@jeremie-2B2D42?logo=tiktok&logoColor=white)](https://tiktok.com/@jeremie)
 
 <!-- <a href="https://dev.to/jeremieberduck">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jérémie Berduck's DEV Community Profile" height="30" width="30">
