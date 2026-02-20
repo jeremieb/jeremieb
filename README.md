@@ -4,19 +4,40 @@
 **jeremieb/jeremieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-❝Learning by doing is the only way I know how to learn.❞ — Tony Fadell
+> ❝Learning by doing is the only way I know how to learn.❞  
+> — Tony Fadell
 
-As a Creative Technologist with over 15 years of experience in design and development, I specialize in transforming imaginative concepts into tangible, impactful digital solutions. My journey from Lead Product Designer and Swift Developer to pioneering roles showcases my dedication to merging design with technology, creating seamless user experiences.
+## Indie iOS Developer
 
-In my career, I've focused on enhancing the end-to-end user experience in mobile and wearable technology, continuously pushing the boundaries of human-machine interfaces. My expertise extends across Apple and Google platforms, where I've developed a profound ability to bridge the gap between design and technical teams, promoting an environment of cross-functional collaboration.
+I build thoughtful, high-quality native apps across Apple platforms.
 
-Recently, my passion has evolved into building new experiences in mixed reality, spatial computing, and virtual reality. This evolution reflects my commitment to not only redefine human-machine interaction but also to create immersive, transformative experiences that extend beyond traditional screens and environments.
+With 20+ years of experience spanning product design and software development, I work at the intersection of **product thinking × Swift engineering** — turning ideas into shipped, maintainable, real-world applications.
 
-As a leader in this innovative field, I drive projects that demand transdisciplinary collaboration, integrating AR, VR, and spatial computing to unlock unprecedented user experiences. This approach is inherently cross and anti-disciplinary, underscoring my belief in the power of breaking new ground through creative and technological fusion.
+My background as a Lead Product Designer gives me a systems-level perspective:
 
-I am dedicated to advancing adaptive, regenerative organizations that champion equitable work and aim to build just, caring societies. My ambition is to work in groundbreaking spaces, catalyzing change and crafting a future where technology and humanity not only coexist but thrive together in new, unimagined ways.
+- Understand the problem  
+- Design the experience  
+- Architect the solution  
+- Ship and iterate  
 
-#productdesign #uxdesign #uidesign #designsystem #design #mobile #mobileapp #indiedeveloper #interactiondesign #voiceuserinterface #creativity #inclusivity #diversity #iOS #watchOS #iPadOS #visionOS #macOS #Swift #SwiftUI #XCode #WidgetKit #SiriKit #VR #AR #Unity #ARKit #Blender
+## What I Focus On
+
+- Swift & SwiftUI  
+- Native-first architecture  
+- Long-term maintainability  
+- Clean, scalable codebases  
+- Product clarity over feature overload  
+
+Alongside my independent apps, I collaborate with teams who value strong foundations, thoughtful execution, and alignment between design and engineering.
+
+Recently, my work explores spatial computing and new interaction paradigms — always grounded in practical product thinking.
+
+I believe good software is built deliberately:  
+**clear architecture, respectful UX, sustainable pace.**
+
+---
+
+Apps & projects → **https://jeremieberduck.com**
 
 ---
 
@@ -34,8 +55,4 @@ I am dedicated to advancing adaptive, regenerative organizations that champion e
 </a> -->
 
 ---
-
-![Jeremie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremieb&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremieb&show_icons=true&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
