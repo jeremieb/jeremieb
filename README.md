@@ -7,37 +7,53 @@
 > ❝Learning by doing is the only way I know how to learn.❞  
 > — Tony Fadell
 
-## Indie iOS Developer
+## Digital Product Builder · Creative Engineer
 
-I build thoughtful, high-quality native apps across Apple platforms.
+I build thoughtful, high-quality digital products across mobile and web.
 
-With 20+ years of experience spanning product design and software development, I work at the intersection of **product thinking × Swift engineering** — turning ideas into shipped, maintainable, real-world applications.
+With 20+ years across product design and software development, I work at the intersection of product thinking × engineering — turning ideas into shipped, maintainable, real-world systems.
 
-My background as a Lead Product Designer gives me a systems-level perspective:
+My background as a Lead Product Designer gives me a systems-level approach:
 
 - Understand the problem  
 - Design the experience  
 - Architect the solution  
 - Ship and iterate  
 
+---
+
 ## What I Focus On
 
-- Swift & SwiftUI  
-- Native-first architecture  
-- Long-term maintainability  
-- Clean, scalable codebases  
 - Product clarity over feature overload  
-
-Alongside my independent apps, I collaborate with teams who value strong foundations, thoughtful execution, and alignment between design and engineering.
-
-Recently, my work explores spatial computing and new interaction paradigms — always grounded in practical product thinking.
-
-I believe good software is built deliberately:  
-**clear architecture, respectful UX, sustainable pace.**
+- Scalable, maintainable architectures  
+- Performance and efficiency  
+- Clean, resilient codebases  
+- User-first, system-first thinking  
 
 ---
 
-Apps & projects → **https://jeremieberduck.com**
+## How I Work
+
+I don’t separate design from engineering.
+
+Every product is built as a coherent system — from early decisions to long-term evolution.
+
+I care about:
+- How it feels  
+- How it performs  
+- How it scales  
+- How it lasts  
+
+---
+
+Alongside my independent work, I collaborate with teams building ambitious digital products — bringing structure, clarity, and technical depth from day one.
+
+I believe good software is built deliberately:  
+clear systems, respectful UX, and disciplined execution.
+
+---
+
+Apps & projects → **https://www.jeremieberduck.com**
 
 ---
 
