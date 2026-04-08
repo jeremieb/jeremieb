@@ -58,8 +58,11 @@ Apps & projects → **https://www.jeremieberduck.com**
 ---
 
 [![Website](https://img.shields.io/badge/Website-jeremieberduck.com-2B2D42?logo=googlechrome&logoColor=white)](https://jeremieberduck.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremie%20Berduck-2B2D42?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremieberduck/)
 [![GitHub](https://img.shields.io/badge/GitHub-jeremieberduck-2B2D42?logo=github&logoColor=white)](https://github.com/jeremieberduck)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-jeremieberduck-2B2D42?logo=huggingface&logoColor=white)](https://huggingface.co/jeremieberduck)
+[![Ollama](https://img.shields.io/badge/Ollama-jeremieberduck-2B2D42?logo=ollama&logoColor=white)](https://ollama.com/jeremieberduck)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremie%20Berduck-2B2D42?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremieberduck/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@jeremie-2B2D42?logo=mastodon&logoColor=white)](https://iosdev.space/@jeremie)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@jeremie-2B2D42?logo=bluesky&logoColor=white)](https://bsky.app/profile/jeremie)
 [![Threads](https://img.shields.io/badge/Threads-@jeremie-2B2D42?logo=threads&logoColor=white)](https://threads.net/@jeremie)
